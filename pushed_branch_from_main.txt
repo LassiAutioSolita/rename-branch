@@ -1,2 +1,2 @@
-Default branch name on creation: main
+Default branch name when created: main
 Pushed: yes
